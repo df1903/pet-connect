@@ -1,0 +1,360 @@
+{
+    "_id" : ObjectId("65767a2f70408538011fec1a"),
+    "propietarioId" : NumberInt(1),
+    "primerNombre" : "Carlos",
+    "segundoNombre" : "Alberto",
+    "primerApellido" : "Martínez",
+    "segundoApellido" : "González",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1985-03-12T05:00:00.000+0000"),
+    "correo" : "carlos@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-01T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec1b"),
+    "propietarioId" : NumberInt(2),
+    "primerNombre" : "Laura",
+    "segundoNombre" : "Isabel",
+    "primerApellido" : "Pérez",
+    "segundoApellido" : "Gómez",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1990-07-25T05:00:00.000+0000"),
+    "correo" : "laura@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-02T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec1c"),
+    "propietarioId" : NumberInt(3),
+    "primerNombre" : "Juan",
+    "segundoNombre" : "José",
+    "primerApellido" : "Sánchez",
+    "segundoApellido" : "Ramírez",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1988-12-18T05:00:00.000+0000"),
+    "correo" : "juan@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-03T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec1d"),
+    "propietarioId" : NumberInt(4),
+    "primerNombre" : "María",
+    "segundoNombre" : "Fernanda",
+    "primerApellido" : "Díaz",
+    "segundoApellido" : "Hernández",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1975-06-30T05:00:00.000+0000"),
+    "correo" : "maria@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-04T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec1e"),
+    "propietarioId" : NumberInt(5),
+    "primerNombre" : "Pedro",
+    "segundoNombre" : "Antonio",
+    "primerApellido" : "Gutiérrez",
+    "segundoApellido" : "López",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1993-09-08T05:00:00.000+0000"),
+    "correo" : "pedro@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-05T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec1f"),
+    "propietarioId" : NumberInt(6),
+    "primerNombre" : "Ana",
+    "segundoNombre" : "Gabriela",
+    "primerApellido" : "Mendoza",
+    "segundoApellido" : "Cruz",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1980-02-14T05:00:00.000+0000"),
+    "correo" : "ana@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-06T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec20"),
+    "propietarioId" : NumberInt(7),
+    "primerNombre" : "Javier",
+    "segundoNombre" : "Fernando",
+    "primerApellido" : "Rojas",
+    "segundoApellido" : "Ortiz",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1987-04-22T05:00:00.000+0000"),
+    "correo" : "javier@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-07T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec21"),
+    "propietarioId" : NumberInt(8),
+    "primerNombre" : "Sofía",
+    "segundoNombre" : "Alejandra",
+    "primerApellido" : "Vargas",
+    "segundoApellido" : "Jiménez",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1995-11-11T05:00:00.000+0000"),
+    "correo" : "sofia@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-08T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec22"),
+    "propietarioId" : NumberInt(9),
+    "primerNombre" : "Daniel",
+    "segundoNombre" : "Enrique",
+    "primerApellido" : "Castro",
+    "segundoApellido" : "Silva",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1979-08-05T05:00:00.000+0000"),
+    "correo" : "daniel@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-09T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec23"),
+    "propietarioId" : NumberInt(10),
+    "primerNombre" : "Paola",
+    "segundoNombre" : "Verónica",
+    "primerApellido" : "Torres",
+    "segundoApellido" : "Molina",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1983-03-27T05:00:00.000+0000"),
+    "correo" : "paola@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-10T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec24"),
+    "propietarioId" : NumberInt(11),
+    "primerNombre" : "Miguel",
+    "segundoNombre" : "Ángel",
+    "primerApellido" : "Herrera",
+    "segundoApellido" : "Rios",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1992-06-17T04:00:00.000+0000"),
+    "correo" : "miguel@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-11T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec25"),
+    "propietarioId" : NumberInt(12),
+    "primerNombre" : "Catalina",
+    "segundoNombre" : "Beatriz",
+    "primerApellido" : "Castañeda",
+    "segundoApellido" : "Pérez",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1986-09-19T05:00:00.000+0000"),
+    "correo" : "catalina@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-12T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec26"),
+    "propietarioId" : NumberInt(13),
+    "primerNombre" : "Alejandro",
+    "segundoNombre" : "Antonio",
+    "primerApellido" : "Chávez",
+    "segundoApellido" : "Cortés",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1981-12-03T05:00:00.000+0000"),
+    "correo" : "alejandro@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-13T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec27"),
+    "propietarioId" : NumberInt(14),
+    "primerNombre" : "Valeria",
+    "segundoNombre" : "Victoria",
+    "primerApellido" : "Franco",
+    "segundoApellido" : "Rivas",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1994-05-28T05:00:00.000+0000"),
+    "correo" : "valeria@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-14T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec28"),
+    "propietarioId" : NumberInt(15),
+    "primerNombre" : "Roberto",
+    "segundoNombre" : "Javier",
+    "primerApellido" : "Soto",
+    "segundoApellido" : "Mendoza",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1989-02-09T05:00:00.000+0000"),
+    "correo" : "roberto@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-15T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec29"),
+    "propietarioId" : NumberInt(16),
+    "primerNombre" : "Isabella",
+    "segundoNombre" : "Lorena",
+    "primerApellido" : "Hernández",
+    "segundoApellido" : "García",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1977-07-31T05:00:00.000+0000"),
+    "correo" : "isabella@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-16T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2a"),
+    "propietarioId" : NumberInt(17),
+    "primerNombre" : "Héctor",
+    "segundoNombre" : "Andrés",
+    "primerApellido" : "Lara",
+    "segundoApellido" : "Vega",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1998-10-20T05:00:00.000+0000"),
+    "correo" : "hector@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-17T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2b"),
+    "propietarioId" : NumberInt(18),
+    "primerNombre" : "Elena",
+    "segundoNombre" : "Marcela",
+    "primerApellido" : "Serrano",
+    "segundoApellido" : "Torres",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1984-04-15T05:00:00.000+0000"),
+    "correo" : "elena@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-18T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2c"),
+    "propietarioId" : NumberInt(19),
+    "primerNombre" : "Andrés",
+    "segundoNombre" : "Felipe",
+    "primerApellido" : "Fuentes",
+    "segundoApellido" : "Salazar",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1991-08-28T05:00:00.000+0000"),
+    "correo" : "andres@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-19T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2d"),
+    "propietarioId" : NumberInt(20),
+    "primerNombre" : "Camila",
+    "segundoNombre" : "Isabel",
+    "primerApellido" : "Moreno",
+    "segundoApellido" : "Ruíz",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1982-01-07T05:00:00.000+0000"),
+    "correo" : "camila@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-20T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2e"),
+    "propietarioId" : NumberInt(21),
+    "primerNombre" : "Francisco",
+    "segundoNombre" : "Javier",
+    "primerApellido" : "Cabrera",
+    "segundoApellido" : "Martínez",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1983-06-14T05:00:00.000+0000"),
+    "correo" : "francisco@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-21T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec2f"),
+    "propietarioId" : NumberInt(22),
+    "primerNombre" : "Renata",
+    "segundoNombre" : "Carolina",
+    "primerApellido" : "Peralta",
+    "segundoApellido" : "Cruz",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1996-09-23T05:00:00.000+0000"),
+    "correo" : "renata@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-22T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec30"),
+    "propietarioId" : NumberInt(23),
+    "primerNombre" : "Martín",
+    "segundoNombre" : "Alejandro",
+    "primerApellido" : "Romero",
+    "segundoApellido" : "Díaz",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1976-03-04T05:00:00.000+0000"),
+    "correo" : "martin@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-23T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec31"),
+    "propietarioId" : NumberInt(24),
+    "primerNombre" : "Gabriela",
+    "segundoNombre" : "Alejandra",
+    "primerApellido" : "Sánchez",
+    "segundoApellido" : "Vargas",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1997-12-11T05:00:00.000+0000"),
+    "correo" : "gabriela@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-24T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec32"),
+    "propietarioId" : NumberInt(25),
+    "primerNombre" : "Felipe",
+    "segundoNombre" : "Andrés",
+    "primerApellido" : "Valencia",
+    "segundoApellido" : "Pérez",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1980-05-26T05:00:00.000+0000"),
+    "correo" : "felipe@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-25T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec33"),
+    "propietarioId" : NumberInt(26),
+    "primerNombre" : "Carolina",
+    "segundoNombre" : "Beatriz",
+    "primerApellido" : "Cruz",
+    "segundoApellido" : "Molina",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1993-10-30T05:00:00.000+0000"),
+    "correo" : "carolina@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-26T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec34"),
+    "propietarioId" : NumberInt(27),
+    "primerNombre" : "Eduardo",
+    "segundoNombre" : "José",
+    "primerApellido" : "Gómez",
+    "segundoApellido" : "Herrera",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1987-04-18T05:00:00.000+0000"),
+    "correo" : "eduardo@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-27T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec35"),
+    "propietarioId" : NumberInt(28),
+    "primerNombre" : "Alicia",
+    "segundoNombre" : "María",
+    "primerApellido" : "Ochoa",
+    "segundoApellido" : "Gutiérrez",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1981-07-02T05:00:00.000+0000"),
+    "correo" : "alicia@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-28T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec36"),
+    "propietarioId" : NumberInt(29),
+    "primerNombre" : "Ricardo",
+    "segundoNombre" : "Antonio",
+    "primerApellido" : "Salazar",
+    "segundoApellido" : "Molina",
+    "genero" : "Masculino",
+    "fechaNacimiento" : ISODate("1994-11-14T05:00:00.000+0000"),
+    "correo" : "ricardo@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-29T05:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("65767a2f70408538011fec37"),
+    "propietarioId" : NumberInt(30),
+    "primerNombre" : "Daniela",
+    "segundoNombre" : "Isabel",
+    "primerApellido" : "Ortiz",
+    "segundoApellido" : "Cruz",
+    "genero" : "Femenino",
+    "fechaNacimiento" : ISODate("1989-02-07T05:00:00.000+0000"),
+    "correo" : "daniela@gmail.com",
+    "fechaRegistro" : ISODate("2023-01-30T05:00:00.000+0000")
+}

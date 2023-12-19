@@ -1,0 +1,424 @@
+{
+    "_id" : ObjectId("657679b270408538011febc7"),
+    "ciudadId" : NumberInt(1),
+    "nombre" : "Bogotá",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febc8"),
+    "ciudadId" : NumberInt(2),
+    "nombre" : "Medellín",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febc9"),
+    "ciudadId" : NumberInt(3),
+    "nombre" : "Cali",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febca"),
+    "ciudadId" : NumberInt(4),
+    "nombre" : "Barranquilla",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febcb"),
+    "ciudadId" : NumberInt(5),
+    "nombre" : "Cartagena",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febcc"),
+    "ciudadId" : NumberInt(6),
+    "nombre" : "Bucaramanga",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febcd"),
+    "ciudadId" : NumberInt(7),
+    "nombre" : "Ibagué",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febce"),
+    "ciudadId" : NumberInt(8),
+    "nombre" : "Pereira",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febcf"),
+    "ciudadId" : NumberInt(9),
+    "nombre" : "Villavicencio",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd0"),
+    "ciudadId" : NumberInt(10),
+    "nombre" : "Manizales",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd1"),
+    "ciudadId" : NumberInt(11),
+    "nombre" : "Popayán",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd2"),
+    "ciudadId" : NumberInt(12),
+    "nombre" : "Armenia",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd3"),
+    "ciudadId" : NumberInt(13),
+    "nombre" : "Valledupar",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd4"),
+    "ciudadId" : NumberInt(14),
+    "nombre" : "Montería",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd5"),
+    "ciudadId" : NumberInt(15),
+    "nombre" : "Santa Marta",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd6"),
+    "ciudadId" : NumberInt(16),
+    "nombre" : "Quibdó",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd7"),
+    "ciudadId" : NumberInt(17),
+    "nombre" : "Neiva",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd8"),
+    "ciudadId" : NumberInt(18),
+    "nombre" : "Tunja",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febd9"),
+    "ciudadId" : NumberInt(19),
+    "nombre" : "Soacha",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febda"),
+    "ciudadId" : NumberInt(20),
+    "nombre" : "Bello",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febdb"),
+    "ciudadId" : NumberInt(21),
+    "nombre" : "Pensilvania",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febdc"),
+    "ciudadId" : NumberInt(22),
+    "nombre" : "Envigado",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febdd"),
+    "ciudadId" : NumberInt(23),
+    "nombre" : "Itagüí",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febde"),
+    "ciudadId" : NumberInt(24),
+    "nombre" : "Sabaneta",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febdf"),
+    "ciudadId" : NumberInt(25),
+    "nombre" : "La Estrella",
+    "pais" : {
+        "nombre" : "Colombia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe0"),
+    "ciudadId" : NumberInt(26),
+    "nombre" : "Buenos Aires",
+    "pais" : {
+        "nombre" : "Argentina"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe1"),
+    "ciudadId" : NumberInt(27),
+    "nombre" : "Brasilia",
+    "pais" : {
+        "nombre" : "Brasil"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe2"),
+    "ciudadId" : NumberInt(28),
+    "nombre" : "Santiago de Chile",
+    "pais" : {
+        "nombre" : "Chile"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe3"),
+    "ciudadId" : NumberInt(29),
+    "nombre" : "Washington D.C.",
+    "pais" : {
+        "nombre" : "Estados Unidos"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe4"),
+    "ciudadId" : NumberInt(30),
+    "nombre" : "Madrid",
+    "pais" : {
+        "nombre" : "España"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe5"),
+    "ciudadId" : NumberInt(31),
+    "nombre" : "Ciudad de México",
+    "pais" : {
+        "nombre" : "México"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe6"),
+    "ciudadId" : NumberInt(32),
+    "nombre" : "Lima",
+    "pais" : {
+        "nombre" : "Perú"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe7"),
+    "ciudadId" : NumberInt(33),
+    "nombre" : "Montevideo",
+    "pais" : {
+        "nombre" : "Uruguay"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe8"),
+    "ciudadId" : NumberInt(34),
+    "nombre" : "Caracas",
+    "pais" : {
+        "nombre" : "Venezuela"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febe9"),
+    "ciudadId" : NumberInt(35),
+    "nombre" : "Asunción",
+    "pais" : {
+        "nombre" : "Paraguay"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febea"),
+    "ciudadId" : NumberInt(36),
+    "nombre" : "La Paz",
+    "pais" : {
+        "nombre" : "Bolivia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febeb"),
+    "ciudadId" : NumberInt(37),
+    "nombre" : "Ottawa",
+    "pais" : {
+        "nombre" : "Canadá"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febec"),
+    "ciudadId" : NumberInt(38),
+    "nombre" : "París",
+    "pais" : {
+        "nombre" : "Francia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febed"),
+    "ciudadId" : NumberInt(39),
+    "nombre" : "Berlín",
+    "pais" : {
+        "nombre" : "Alemania"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febee"),
+    "ciudadId" : NumberInt(40),
+    "nombre" : "Roma",
+    "pais" : {
+        "nombre" : "Italia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febef"),
+    "ciudadId" : NumberInt(41),
+    "nombre" : "Londres",
+    "pais" : {
+        "nombre" : "Reino Unido"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf0"),
+    "ciudadId" : NumberInt(42),
+    "nombre" : "Sidney",
+    "pais" : {
+        "nombre" : "Australia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf1"),
+    "ciudadId" : NumberInt(43),
+    "nombre" : "Tokio",
+    "pais" : {
+        "nombre" : "Japón"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf2"),
+    "ciudadId" : NumberInt(44),
+    "nombre" : "Pekín",
+    "pais" : {
+        "nombre" : "China"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf3"),
+    "ciudadId" : NumberInt(45),
+    "nombre" : "Nueva Delhi",
+    "pais" : {
+        "nombre" : "India"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf4"),
+    "ciudadId" : NumberInt(46),
+    "nombre" : "Moscú",
+    "pais" : {
+        "nombre" : "Rusia"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf5"),
+    "ciudadId" : NumberInt(47),
+    "nombre" : "Johannesburgo",
+    "pais" : {
+        "nombre" : "Sudáfrica"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf6"),
+    "ciudadId" : NumberInt(48),
+    "nombre" : "Riad",
+    "pais" : {
+        "nombre" : "Arabia Saudita"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf7"),
+    "ciudadId" : NumberInt(49),
+    "nombre" : "Rabat",
+    "pais" : {
+        "nombre" : "Marruecos"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf8"),
+    "ciudadId" : NumberInt(50),
+    "nombre" : "El Cairo",
+    "pais" : {
+        "nombre" : "Egipto"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febf9"),
+    "ciudadId" : NumberInt(51),
+    "nombre" : "Estambul",
+    "pais" : {
+        "nombre" : "Turquía"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febfa"),
+    "ciudadId" : NumberInt(52),
+    "nombre" : "Singapur",
+    "pais" : {
+        "nombre" : "Singapur"
+    }
+}
+{
+    "_id" : ObjectId("657679b270408538011febfb"),
+    "ciudadId" : NumberInt(53),
+    "nombre" : "Wellington",
+    "pais" : {
+        "nombre" : "Nueva Zelanda"
+    }
+}

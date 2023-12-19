@@ -1,0 +1,60 @@
+{
+    "_id" : ObjectId("657679fd70408538011fec06"),
+    "especieId" : NumberInt(1),
+    "nombre" : "Perro",
+    "descripcion" : "Animal de compañía muy popular, fiel y cariñoso. Se caracteriza por su inteligencia y su capacidad de aprendizaje."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec07"),
+    "especieId" : NumberInt(2),
+    "nombre" : "Gato",
+    "descripcion" : "Animal de compañía independiente y juguetón. Se caracteriza por su limpieza y su tranquilidad."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec08"),
+    "especieId" : NumberInt(3),
+    "nombre" : "Pez",
+    "descripcion" : "Animal de compañía tranquilo y relajante. Se caracteriza por su belleza y su variedad de colores y formas."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec09"),
+    "especieId" : NumberInt(4),
+    "nombre" : "Hámster",
+    "descripcion" : "Animal de compañía pequeño y divertido. Se caracteriza por su energía y su curiosidad."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0a"),
+    "especieId" : NumberInt(5),
+    "nombre" : "Conejo",
+    "descripcion" : "Animal de compañía cariñoso y juguetón. Se caracteriza por su inteligencia y su facilidad para entrenar."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0b"),
+    "especieId" : NumberInt(6),
+    "nombre" : "Pajaro",
+    "descripcion" : "Animal de compañía sociable y melodioso. Se caracteriza por su capacidad de cantar y su inteligencia."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0c"),
+    "especieId" : NumberInt(7),
+    "nombre" : "Tortuga",
+    "descripcion" : "Animal de compañía tranquilo y longevo. Se caracteriza por su independencia y su facilidad de cuidado."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0d"),
+    "especieId" : NumberInt(8),
+    "nombre" : "Iguana",
+    "descripcion" : "Animal de compañía exótico y llamativo. Se caracteriza por su tamaño y su inteligencia."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0e"),
+    "especieId" : NumberInt(9),
+    "nombre" : "Serpiente",
+    "descripcion" : "Animal de compañía exótico y elegante. Se caracteriza por su belleza y su silencio."
+}
+{
+    "_id" : ObjectId("657679fd70408538011fec0f"),
+    "especieId" : NumberInt(10),
+    "nombre" : "Pulpo",
+    "descripcion" : "Animal de compañía exótico e inteligente. Se caracteriza por su capacidad de aprendizaje y su curiosidad."
+}
